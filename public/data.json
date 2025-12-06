@@ -1,0 +1,365 @@
+[
+    {
+        "id": 1,
+        "name": "Grand Palace Hotel",
+        "price": 350,
+        "images": [
+            "./image_01.png",
+            "/images/hotel1/lobby.jpg",
+            "/images/hotel1/pool.jpg"
+        ],
+        "videos": [
+            "/videos/hotel1/tour.mp4"
+        ],
+        "rating": 4.6,
+        "reviewed": 1280,
+        "category": "Luxury",
+        "type": "Hotel",
+        "location": "Gulshan, Dhaka",
+        "services": [
+            {
+                "label": "2 Bedrooms",
+                "icon": "Bed"
+            },
+            {
+                "label": "1 Bathroom",
+                "icon": "Bath"
+            },
+            {
+                "label": "Free WiFi",
+                "icon": "Wifi"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "City Star Hotel",
+        "price": 200,
+        "images": [
+            "./image_01.png",
+            "/images/hotel1/lobby.jpg",
+            "/images/hotel1/pool.jpg"
+        ],
+        "videos": [],
+        "rating": 4.2,
+        "reviewed": 760,
+        "category": "Business",
+        "type": "Hotel",
+        "location": "Banani, Dhaka",
+        "services": [
+            {
+                "label": "1 Bedroom",
+                "icon": "Bed"
+            },
+            {
+                "label": "Private Balcony",
+                "icon": "Umbrella"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ocean Breeze Resort",
+        "price": 550,
+        "images": [
+            "./image_01.png",
+            "/images/hotel1/lobby.jpg",
+            "/images/hotel1/pool.jpg"
+        ],
+        "videos": [
+            "/videos/hotel3/walkthrough.mp4"
+        ],
+        "rating": 4.8,
+        "reviewed": 2105,
+        "category": "Resort",
+        "type": "Resort",
+        "location": "Cox's Bazar, Bangladesh",
+        "services": [
+            {
+                "label": "3 Bedrooms",
+                "icon": "Bed"
+            },
+            {
+                "label": "Sea View",
+                "icon": "Waves"
+            },
+            {
+                "label": "Swimming Pool",
+                "icon": "Waves"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Ocean Breeze Resort",
+        "price": 550,
+        "images": [
+            "./image_01.png",
+            "/images/hotel1/lobby.jpg",
+            "/images/hotel1/pool.jpg"
+        ],
+        "videos": [
+            "/videos/hotel3/walkthrough.mp4"
+        ],
+        "rating": 4.8,
+        "reviewed": 2105,
+        "category": "Resort",
+        "type": "Resort",
+        "location": "Cox's Bazar, Bangladesh",
+        "services": [
+            {
+                "label": "3 Bedrooms",
+                "icon": "Bed"
+            },
+            {
+                "label": "Sea View",
+                "icon": "Waves"
+            },
+            {
+                "label": "Swimming Pool",
+                "icon": "Waves"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Seaside Serenity Villa",
+        "price": 780,
+        "images": [
+            "./image_01.png",
+            "/images/villa1/living.jpg",
+            "/images/villa1/beach.jpg"
+        ],
+        "videos": [],
+        "rating": 4.9,
+        "reviewed": 890,
+        "category": "Luxury",
+        "type": "Villa",
+        "location": "Cox's Bazar, Bangladesh",
+        "services": [
+            {
+                "label": "4 Bedrooms",
+                "icon": "Bed"
+            },
+            {
+                "label": "Beach Access",
+                "icon": "Waves"
+            },
+            {
+                "label": "Private Pool",
+                "icon": "Sun"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Maple Leaf Guest House",
+        "price": 95,
+        "images": [
+            "./image_01.png",
+            "/images/guesthouse1/front.jpg",
+            "/images/guesthouse1/room.jpg"
+        ],
+        "videos": [],
+        "rating": 4.1,
+        "reviewed": 540,
+        "category": "Budget",
+        "type": "Guest House",
+        "location": "Uttara, Dhaka",
+        "services": [
+            {
+                "label": "1 Bedroom",
+                "icon": "Bed"
+            },
+            {
+                "label": "Breakfast Included",
+                "icon": "Coffee"
+            },
+            {
+                "label": "Free Parking",
+                "icon": "Car"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Hillside Nature Lodge",
+        "price": 260,
+        "images": [
+            "./image_01.png",
+            "/images/lodge1/forest.jpg",
+            "/images/lodge1/room.jpg"
+        ],
+        "videos": [],
+        "rating": 4.7,
+        "reviewed": 1320,
+        "category": "Nature",
+        "type": "Lodge",
+        "location": "Bandarban, Bangladesh",
+        "services": [
+            {
+                "label": "2 Bedrooms",
+                "icon": "Bed"
+            },
+            {
+                "label": "Forest View",
+                "icon": "Trees"
+            },
+            {
+                "label": "Mountain View",
+                "icon": "Mountain"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Blue Lagoon Apartment",
+        "price": 150,
+        "images": [
+            "./image_01.png",
+            "/images/apartment1/living.jpg",
+            "/images/apartment1/view.jpg"
+        ],
+        "videos": [],
+        "rating": 4.3,
+        "reviewed": 680,
+        "category": "Business",
+        "type": "Apartment",
+        "location": "Gulshan, Dhaka",
+        "services": [
+            {
+                "label": "1 Bedroom",
+                "icon": "Bed"
+            },
+            {
+                "label": "Kitchen Access",
+                "icon": "Utensils"
+            },
+            {
+                "label": "Free WiFi",
+                "icon": "Wifi"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Palm Breeze Resort",
+        "price": 620,
+        "images": [
+            "./image_01.png",
+            "/images/resort1/beach.jpg",
+            "/images/resort1/pool.jpg",
+            "/images/resort1/room.jpg"
+        ],
+        "videos": [],
+        "rating": 4.9,
+        "reviewed": 1520,
+        "category": "Beach",
+        "type": "Resort",
+        "location": "Kuakata, Bangladesh",
+        "services": [
+            {
+                "label": "Beachfront",
+                "icon": "Waves"
+            },
+            {
+                "label": "Outdoor Pool",
+                "icon": "Sun"
+            },
+            {
+                "label": "3 Bedrooms",
+                "icon": "Bed"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Royal Executive Suite",
+        "price": 420,
+        "images": [
+            "./image_01.png",
+            "/images/suite1/luxury.jpg",
+            "/images/suite1/living.jpg"
+        ],
+        "videos": [],
+        "rating": 4.6,
+        "reviewed": 940,
+        "category": "Luxury",
+        "type": "Suite",
+        "location": "Banani, Dhaka",
+        "services": [
+            {
+                "label": "King Bedroom",
+                "icon": "Bed"
+            },
+            {
+                "label": "VIP Lounge Access",
+                "icon": "Crown"
+            },
+            {
+                "label": "Free Breakfast",
+                "icon": "Coffee"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Snowfall Mountain Chalet",
+        "price": 300,
+        "images": [
+            "./image_01.png",
+            "/images/chalet1/snow.jpg",
+            "/images/chalet1/wood.jpg"
+        ],
+        "videos": [],
+        "rating": 4.4,
+        "reviewed": 410,
+        "category": "Nature",
+        "type": "Chalet",
+        "location": "Sreemangal, Bangladesh",
+        "services": [
+            {
+                "label": "2 Bedrooms",
+                "icon": "Bed"
+            },
+            {
+                "label": "Fireplace",
+                "icon": "Flame"
+            },
+            {
+                "label": "Mountain View",
+                "icon": "Mountain"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "City Center Motel",
+        "price": 80,
+        "images": [
+            "./image_01.png",
+            "/images/motel1/front.jpg",
+            "/images/motel1/parking.jpg"
+        ],
+        "videos": [],
+        "rating": 3.9,
+        "reviewed": 210,
+        "category": "Budget",
+        "type": "Motel",
+        "location": "Mirpur, Dhaka",
+        "services": [
+            {
+                "label": "Free Parking",
+                "icon": "Car"
+            },
+            {
+                "label": "1 Bedroom",
+                "icon": "Bed"
+            },
+            {
+                "label": "WiFi Available",
+                "icon": "Wifi"
+            }
+        ]
+    }
+]

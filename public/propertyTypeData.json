@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Hotels",
+    "description": "Comfortable rooms and professional service for every traveler.",
+    "icon": "Hotel",
+    "image": "./resort.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Apartments",
+    "description": "Self-catered stays with home-like comfort and privacy.",
+    "icon": "Building",
+    "image": "/property-types/apartments.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Resorts",
+    "description": "Relaxing stays with pools, spas, and full luxury amenities.",
+    "icon": "Sun",
+    "image": "/property-types/resorts.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Villas",
+    "description": "Spacious private homes ideal for families or group stays.",
+    "icon": "Home",
+    "image": "/property-types/villas.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Guest Houses",
+    "description": "Budget-friendly rooms in welcoming family-run properties.",
+    "icon": "House",
+    "image": "/property-types/guesthouse.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Hostels",
+    "description": "Affordable stays with shared spaces and social vibes.",
+    "icon": "Users",
+    "image": "/property-types/hostels.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Holiday Homes",
+    "description": "Private houses for relaxing family holidays and longer stays.",
+    "icon": "Home",
+    "image": "/property-types/holiday-home.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cottages",
+    "description": "Cozy, countryside-style homes perfect for quiet retreats.",
+    "icon": "Home",
+    "image": "/property-types/cottage.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Motels",
+    "description": "Roadside stays with easy access and convenience.",
+    "icon": "Car",
+    "image": "/property-types/motel.jpg"
+  },
+  {
+    "id": 10,
+    "name": "B&Bs",
+    "description": "Charming stays with breakfast included, often family-run.",
+    "icon": "Coffee",
+    "image": "/property-types/bnb.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Chalets",
+    "description": "Mountain-style wooden homes perfect for nature lovers.",
+    "icon": "Mountain",
+    "image": "/property-types/chalet.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Lodges",
+    "description": "Nature-focused accommodations close to wildlife and scenery.",
+    "icon": "PineTree",
+    "image": "/property-types/lodge.jpg"
+  }
+]

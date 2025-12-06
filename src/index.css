@@ -1,0 +1,41 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+html {
+  width: 100%;
+  font-family: sans-serif;
+}
+
+body {
+  width: 100%;
+  max-width: 1240px;
+  flex-direction: column;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-range::-webkit-slider-thumb {
+  width: 20px;
+  height: 20px;
+  background: white;
+  border-radius: 50%;
+}
+
+.custom-range::-webkit-slider-runnable-track {
+  height: 6px;
+  background: #e5e7eb; /* gray-200 */
+  border-radius: 50px;
+}
+
+.button{
+  background: black;
+  color: white;
+  padding: 10px 24px;
+  border-radius: 50px;
+  font-size: 14px;
+  font-weight: bold;
+}
