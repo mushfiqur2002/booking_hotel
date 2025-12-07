@@ -72,12 +72,16 @@ function NavBar() {
                         </li>
                         <li><a>Settings</a></li>
                         <li>
-                            <button className="btn bg-emerald-700 text-base-300">
+                            <button className="btn bg-emerald-700 text-base-300"
+                                onClick={() => window.open('/user/login&signup', '_blank')}>
                                 {user ? 'Logout' : 'Login'}
                             </button>
                         </li>
                         <li>
-                            <button className="btn bg-emerald-700 text-base-300 capitalize">
+                            <button
+                                className="btn bg-emerald-700 text-base-300 capitalize"
+                                onClick={() => window.open('/admin/dashboard', '_blank')}
+                            >
                                 adimin dashboard
                             </button>
                         </li>
